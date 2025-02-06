@@ -50,3 +50,8 @@ Identify which products and outlets generate the most revenue.
 Understand the impact of product attributes like fat content on sales.
 
 Analyze performance based on outlet size, location, and type. 
+
+
+![Screenshot 2025-02-03 130623](https://github.com/user-attachments/assets/adcbc1e9-99fe-4415-a874-d6f4e825398c)
+![Screenshot 2025-02-06 134514](https://github.com/user-attachments/assets/5f59ace3-f179-4ec6-b0a9-8b73ad19323a)
+
